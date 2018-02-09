@@ -1,6 +1,8 @@
 package com.company.Question_2;
 
-public class Ferret {
+public class Ferret extends Pet{
+
+
 
     private boolean likesToPlay;
 

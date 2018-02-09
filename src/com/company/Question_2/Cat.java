@@ -1,6 +1,10 @@
 package com.company.Question_2;
 
-public class Cat {
+import java.lang.reflect.Method;
+
+public class Cat{
+
+
 
     private boolean likesCatnip;
     private boolean usesLitterbox;
